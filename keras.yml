@@ -1,0 +1,5 @@
+name: keras
+channels:
+  - defaults
+prefix: C:\Users\karan.verma\AppData\Local\Continuum\anaconda3\envs\keras\envs\keras
+
